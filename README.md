@@ -48,5 +48,7 @@ To clone this repository, you have the following options:
     gh repo clone iman-ezatfar/Vehicle_Accident_Analysis
     ```
 
+## Contact
 
-This will download the repository to your local machine where you can explore the project files and begin working on them locally.
+<a href="https://www.linkedin.com/in/imanezatfar"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="mailto:iman.ezatfar89@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/></a>
